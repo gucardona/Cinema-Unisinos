@@ -19,5 +19,3 @@ This project was made in pairs, by the students: Gustavo Parcianello Cardona and
 
 This is not the original repository of the project, just the finished project.
 collaboration on this repository: https://github.com/OniMatt/Cinema, which may be private.
-
-Translated with www.DeepL.com/Translator (free version)
